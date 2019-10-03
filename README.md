@@ -1,2 +1,6 @@
 # hello-world
 A walk-trough of GitHub
+
+This is a sample commit. Let's see how merging works...
+
+## to be continued ...
